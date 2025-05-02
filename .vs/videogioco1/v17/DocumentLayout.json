@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\source\\repos\\videogioco1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB389535-7F94-438A-B9BD-C22A4482CC46}|videogioco1\\videogioco1.csproj|c:\\users\\franc\\source\\repos\\videogioco1\\videogioco1\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB389535-7F94-438A-B9BD-C22A4482CC46}|videogioco1\\videogioco1.csproj|solutionrelative:videogioco1\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB389535-7F94-438A-B9BD-C22A4482CC46}|videogioco1\\videogioco1.csproj|c:\\users\\franc\\source\\repos\\videogioco1\\videogioco1\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB389535-7F94-438A-B9BD-C22A4482CC46}|videogioco1\\videogioco1.csproj|solutionrelative:videogioco1\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB389535-7F94-438A-B9BD-C22A4482CC46}|videogioco1\\videogioco1.csproj|c:\\users\\franc\\source\\repos\\videogioco1\\videogioco1\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB389535-7F94-438A-B9BD-C22A4482CC46}|videogioco1\\videogioco1.csproj|solutionrelative:videogioco1\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB389535-7F94-438A-B9BD-C22A4482CC46}|videogioco1\\videogioco1.csproj|c:\\users\\franc\\source\\repos\\videogioco1\\videogioco1\\videogioco1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB389535-7F94-438A-B9BD-C22A4482CC46}|videogioco1\\videogioco1.csproj|solutionrelative:videogioco1\\videogioco1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB389535-7F94-438A-B9BD-C22A4482CC46}|videogioco1\\videogioco1.csproj|c:\\users\\franc\\source\\repos\\videogioco1\\videogioco1\\gameform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{EB389535-7F94-438A-B9BD-C22A4482CC46}|videogioco1\\videogioco1.csproj|solutionrelative:videogioco1\\gameform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB389535-7F94-438A-B9BD-C22A4482CC46}|videogioco1\\videogioco1.csproj|c:\\users\\franc\\source\\repos\\videogioco1\\videogioco1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB389535-7F94-438A-B9BD-C22A4482CC46}|videogioco1\\videogioco1.csproj|solutionrelative:videogioco1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameForm.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\videogioco1\\videogioco1\\GameForm.cs",
+              "RelativeDocumentMoniker": "videogioco1\\GameForm.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\videogioco1\\videogioco1\\GameForm.cs [Progettazione]",
+              "RelativeToolTip": "videogioco1\\GameForm.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:55:43.657Z",
+              "IsPinned": true,
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "videogioco1",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\videogioco1\\videogioco1\\videogioco1.csproj",
+              "RelativeDocumentMoniker": "videogioco1\\videogioco1.csproj",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\videogioco1\\videogioco1\\videogioco1.csproj",
+              "RelativeToolTip": "videogioco1\\videogioco1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-02T15:13:31.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameForm.resx",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\videogioco1\\videogioco1\\GameForm.resx",
+              "RelativeDocumentMoniker": "videogioco1\\GameForm.resx",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\videogioco1\\videogioco1\\GameForm.resx",
+              "RelativeToolTip": "videogioco1\\GameForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-02T15:05:49.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\videogioco1\\videogioco1\\GameForm.Designer.cs",
+              "RelativeDocumentMoniker": "videogioco1\\GameForm.Designer.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\videogioco1\\videogioco1\\GameForm.Designer.cs",
+              "RelativeToolTip": "videogioco1\\GameForm.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:00:59.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\videogioco1\\videogioco1\\Program.cs",
+              "RelativeDocumentMoniker": "videogioco1\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\videogioco1\\videogioco1\\Program.cs",
+              "RelativeToolTip": "videogioco1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:59:26.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\videogioco1\\videogioco1\\GameForm.cs",
+              "RelativeDocumentMoniker": "videogioco1\\GameForm.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\videogioco1\\videogioco1\\GameForm.cs",
+              "RelativeToolTip": "videogioco1\\GameForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:56:32.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

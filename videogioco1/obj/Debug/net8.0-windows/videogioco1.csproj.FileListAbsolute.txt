@@ -1,0 +1,17 @@
+C:\Users\franc\source\repos\videogioco1\videogioco1\bin\Debug\net8.0-windows\videogioco1.exe
+C:\Users\franc\source\repos\videogioco1\videogioco1\bin\Debug\net8.0-windows\videogioco1.deps.json
+C:\Users\franc\source\repos\videogioco1\videogioco1\bin\Debug\net8.0-windows\videogioco1.runtimeconfig.json
+C:\Users\franc\source\repos\videogioco1\videogioco1\bin\Debug\net8.0-windows\videogioco1.dll
+C:\Users\franc\source\repos\videogioco1\videogioco1\bin\Debug\net8.0-windows\videogioco1.pdb
+C:\Users\franc\source\repos\videogioco1\videogioco1\obj\Debug\net8.0-windows\videogioco1.GameForm.resources
+C:\Users\franc\source\repos\videogioco1\videogioco1\obj\Debug\net8.0-windows\videogioco1.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\videogioco1\videogioco1\obj\Debug\net8.0-windows\videogioco1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\videogioco1\videogioco1\obj\Debug\net8.0-windows\videogioco1.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\videogioco1\videogioco1\obj\Debug\net8.0-windows\videogioco1.AssemblyInfo.cs
+C:\Users\franc\source\repos\videogioco1\videogioco1\obj\Debug\net8.0-windows\videogioco1.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\videogioco1\videogioco1\obj\Debug\net8.0-windows\videogioco1.dll
+C:\Users\franc\source\repos\videogioco1\videogioco1\obj\Debug\net8.0-windows\refint\videogioco1.dll
+C:\Users\franc\source\repos\videogioco1\videogioco1\obj\Debug\net8.0-windows\videogioco1.pdb
+C:\Users\franc\source\repos\videogioco1\videogioco1\obj\Debug\net8.0-windows\videogioco1.genruntimeconfig.cache
+C:\Users\franc\source\repos\videogioco1\videogioco1\obj\Debug\net8.0-windows\ref\videogioco1.dll
+C:\Users\franc\source\repos\videogioco1\videogioco1\bin\Debug\net8.0-windows\img\navicella.png
